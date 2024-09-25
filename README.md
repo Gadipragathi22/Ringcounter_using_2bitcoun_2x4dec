@@ -1,1 +1,1 @@
-
+Ring Counter is a sequential circuit. I have designed a synchronous Ring counter using 2bit counter and 2x4 decoder using structural modelling where the sub modules are instantianted to build the top module. 
